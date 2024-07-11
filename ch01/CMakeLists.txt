@@ -1,0 +1,5 @@
+add_executable(fd_eri fd_seri.c)
+add_executable(hello_client_01 hello_client.c)
+add_executable(hello_server_01 hello_server.c)
+add_executable(low_open_01 low_open.c)
+add_executable(low_read_01 low_read.c)

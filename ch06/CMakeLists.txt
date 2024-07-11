@@ -1,0 +1,7 @@
+add_executable(bound_host106 bound_host1.c)
+add_executable(bound_host206 bound_host2.c)
+add_executable(uecho_client06 uecho_client.c)
+add_executable(uecho_con_client06 uecho_con_client.c)
+add_executable(uecho_server06 uecho_server.c)
+add_executable(uchar_client06 homework/uchar_client.c)
+add_executable(uchar_server06 homework/uchar_server.c)

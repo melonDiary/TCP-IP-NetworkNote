@@ -1,0 +1,1 @@
+add_executable(webserv_linux24 webserv_linux.c)

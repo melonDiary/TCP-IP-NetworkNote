@@ -1,0 +1,7 @@
+add_executable(echo_EDGEserv17 echo_EDGEserv.c)
+add_executable(echo_EPETserv17 echo_EPETserv.c)
+add_executable(echo_EPLTserv17 echo_EPLTserv.c)
+add_executable(echo_epollserv17 echo_epollserv.c)
+add_executable(char_EPETserv17 homework/char_EPETserv.c)
+add_executable(char_EPLTserv17 homework/char_EPLTserv.c)
+add_executable(chat_clnt17 homework/chat_clnt.c)

@@ -1,0 +1,2 @@
+add_executable(gethostbyaddr08 gethostbyaddr.c)
+add_executable(gethostbyname08 gethostbyname.c)

@@ -1,0 +1,6 @@
+add_executable(desto15 desto.c)
+add_executable(todes15 todes.c)
+add_executable(echo_client15 echo_client.c)
+add_executable(echo_stdserv15 echo_stdserv.c)
+add_executable(stdcpy15 stdcpy.c)
+add_executable(syscpy15 syscpy.c)

@@ -1,0 +1,4 @@
+add_executable(news_sender14 news_sender.c)
+add_executable(news_sender_brd14 news_sender_brd.c)
+add_executable(news_receiver14 news_receiver.c)
+add_executable(news_receiver_brd14 news_receiver_brd.c)

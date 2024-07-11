@@ -1,0 +1,8 @@
+add_executable(chat_clnt18 chat_clnt.c)
+add_executable(chat_server18 chat_server.c)
+add_executable(mutex18 mutex.c)
+add_executable(semaphore18 semaphore.c)
+add_executable(thread118 thread1.c)
+add_executable(thread218 thread2.c)
+add_executable(thread318 thread3.c)
+add_executable(thread418 thread4.c)
