@@ -1,3 +1,5 @@
 build/
 .history/
-.vscode/extensions.json
+.vscode/
+cmake-build-debug/
+.idea/
